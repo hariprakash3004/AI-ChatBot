@@ -88,7 +88,7 @@ if prompt:
 
         # Groq model call
         response = client.chat.completions.create(
-            model="llama3-70b-8192",  # You can change to "llama3-70b-8192"
+            model="llama3-70b-8192",  
             messages=st.session_state.messages
         )
         reply = response.choices[0].message.content
