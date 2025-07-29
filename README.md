@@ -38,6 +38,8 @@
   ```bash
    streamlit run app.py
 
+
+
 # 📸 Screenshot
 
 <img width="1331" height="465" alt="Screenshot 2025-07-29 233041" src="https://github.com/user-attachments/assets/2b0eeda7-8a8f-4994-9ed0-00963be3cda8" />
