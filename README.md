@@ -35,9 +35,8 @@
 
    
 # ▶️ Run the App
-  ```bash
+  
    streamlit run app.py
-
 
 
 # 📸 Screenshot
