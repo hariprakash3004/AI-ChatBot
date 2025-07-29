@@ -16,20 +16,20 @@
 # 🛠️ Installation
 
 1. Clone the repository
-
+   ```bash
      git clone https://github.com/hariprakash3004/AI-ChatBot
      cd groq-chatbot
 
- 2. Create and activate virtual environment (Windows)
+ 3. Create and activate virtual environment (Windows)
 
     python -m venv venv
     venv\Scripts\activate
 
-3. Install dependencies
+4. Install dependencies
 
    pip install -r requirements.txt
 
-4. Add your Groq API key
+5. Add your Groq API key
 
     GROQ_API_KEY=your_groq_api_key_here
 
