@@ -17,8 +17,8 @@
 
 1. Clone the repository
 
-    git clone https://github.com/hariprakash3004/AI-ChatBot
-    cd groq-chatbot
+     git clone https://github.com/hariprakash3004/AI-ChatBot
+     cd groq-chatbot
 
  2. Create and activate virtual environment (Windows)
 
