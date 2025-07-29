@@ -21,21 +21,21 @@
      cd groq-chatbot
 
  3. Create and activate virtual environment (Windows)
-
+    ```bash
     python -m venv venv
     venv\Scripts\activate
 
 4. Install dependencies
-
+   ```bash
    pip install -r requirements.txt
 
 5. Add your Groq API key
-
+    ```bash
     GROQ_API_KEY=your_groq_api_key_here
 
    
 # ▶️ Run the App
-
+  ```bash
    streamlit run app.py
 
 # 📸 Screenshot
